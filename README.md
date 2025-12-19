@@ -6,7 +6,7 @@ Innovative Developer | Web & AI Projects
 
 🚀 Passionate Developer on a Mission! 🌟 Welcome to my digital workshop 🛠️, where creativity meets code! I specialize in web development 🌐 and love building innovative projects that solve real-world problems. From crafting sleek UI designs 🎨 to exploring the depths of AI 🤖 and TensorFlow, my journey is fueled by curiosity and dedication. Check out my latest repositories 📂 for hands-on learning, collaborative projects 🤝, and cutting-edge tech experiments. Let’s build the future, one commit at a time! 💻✨
 
-* ✉️  You can contact me at [Sanjaysbk@gmail.com](mailto:Sanjaysbk@gmail.com)
+* ✉️  You can contact me at [Sanjaysbk@gmail.com](mailto:sanjaysbk236@gmail.com)
 * 🧠  I'm learning B.Tech at Srinivas University
 
 ### Skills
