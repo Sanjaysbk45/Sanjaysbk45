@@ -11,7 +11,7 @@
 
 ### 🙋 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering — Srinivas University, Mangalore (2022–2026)
+- 🎓 B.Tech in Computer Science & Engineering — Srinivas University, Mangalore (2021–2025)
 - 💼 3 internships across **full stack web development** and **data science / ML**
 - 🛠️ I build full-stack apps with **React, Node.js, Express, PostgreSQL and MongoDB**
 - 🎯 Currently seeking a **Full Stack Developer** role
@@ -34,6 +34,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -59,6 +60,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**NicheLink**](https://github.com/Sanjaysbk45/Nichelink) | Community platform for remote workers — niche communities, rich-text posts with nested comments, real-time DMs with typing & presence, Project Match board, and a Stripe-powered Pro tier. JWT auth + role-based access control. | React · Node.js · Express · MongoDB · Socket.io · Stripe · Tailwind |
 | [**FreelanceFlow**](https://github.com/Sanjaysbk45/freelance-flow) | Freelance management system — clients, projects, tasks, real-time time tracking, invoices with PDF export, and a live financial dashboard. JWT auth + bcrypt. | React · Node.js · Express · PostgreSQL · Tailwind |
 | **E-Commerce Web App** | MERN platform with 200+ products, JWT auth, cart, filters, search and payment integration. | MongoDB · Express · React · Node.js |
 | **Grasim Industries Website** | 8-page responsive corporate website delivered during internship. | React · HTML5 · CSS3 |
