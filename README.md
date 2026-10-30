@@ -11,7 +11,7 @@
 
 ### 🙋 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering — Srinivas University, Mangalore (2021–2025)
+- 🎓 B.Tech in Computer Science & Engineering — Srinivas University, Mangalore (2022–2026)
 - 💼 3 internships across **full stack web development** and **data science / ML**
 - 🛠️ I build full-stack apps with **React, Node.js, Express, PostgreSQL and MongoDB**
 - 🎯 Currently seeking a **Full Stack Developer** role
